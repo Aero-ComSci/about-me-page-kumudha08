@@ -1,0 +1,36 @@
+body{
+    background-color:beige
+}
+
+p{
+    margin: auto;
+    width: 50;
+    color:rgb(0, 0, 0);
+}
+
+h2{
+    font-size: large;
+    color: rgb(39, 35, 35);
+}
+
+table  {
+        border: 2px solid black;
+        width: auto;
+        font-style: normal;
+        margin: auto;
+        width: 50%
+        padding: 2em
+}
+
+th, td, tr {
+    border: 2px solid black;
+    width: auto;
+    font-style: normal;
+}
+
+.birthday{
+    width: 150px;
+    height: 200px;
+    position: left;
+}
+
